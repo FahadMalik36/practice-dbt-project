@@ -4,7 +4,7 @@ fahad_dbt_tutorial:
       catalog: dbt_tutorial_dev
       host: dbc-e0d423ed-b7c7.cloud.databricks.com
       http_path: /sql/1.0/warehouses/385dcf53593c3367
-      schema: default
+      schema: bronze
       threads: 1
       token: "{{ env_var('DATABRICKS_TOKEN') }}"
       type: databricks
