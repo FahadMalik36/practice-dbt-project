@@ -8,6 +8,6 @@
         "~/.claude/skills": true,
         "~/.vscode/extensions/synapsevscode.synapse-1.25.0/copilot/skills": true
     },
-    "dbt.dbtPythonPathOverride": "C:\\Users\\fmalik\\src\\practice-dbt-project\\.venv\\Scripts\\python.exe",
+    "dbt.dbtPythonPathOverride": "/Users/fahadmalik/src/practice-dbt-project/.venv/bin/python",
     "dbt.perspectiveTheme": "Pro Dark"
 }
